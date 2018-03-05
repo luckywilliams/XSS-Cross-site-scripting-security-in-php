@@ -16,5 +16,4 @@ $security = new OopSecurity();
 
 // call the method and pass the string
 echo $security -> XssSecuirty($string);
-
 ?>
