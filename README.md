@@ -3,11 +3,11 @@ XSS (Cross site scripting) security in php with both Procedural and Object Orien
 
 - What is XSS(Cross Site Scripting) Attack
 
-ANS. XSS(Cross Site Scripting) Attack happen if any user try to input some "javascript" or "html" code into your database for render his page on your website or hack your users or hack user cookie etc.
+Ans. XSS(Cross Site Scripting) Attack happen if any user try to input some "javascript" or "html" code into your database for render his page on your website or hack your users or hack user cookie etc.
 
 - How To Prevent XSS
 
-ANS. Do not let run javascript to other html codes by converting them to html entities.
+Ans. Do not let run javascript to other html codes by converting them to html entities.
 
 # Table of Contents
 
