@@ -26,6 +26,7 @@ class OopSecurity{
 		
 		// htmlspecialchars — Convert special characters and quotes to HTML entities
 		$string = htmlspecialchars($string, ENT_QUOTES, 'UTF-8');
+		
 		//return string
 		return $string;
 		
